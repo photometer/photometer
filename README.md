@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Liza!👋 Python-developer and meteorologist.
+Yandex.Practicum student
+
+Languages and tools: Python / Django / Django REST Framework / SQL / Docker and docker-compose / Yandex.Cloud / Git / Github.Actions / Nginx / Unittest / Linux / HTML / CSS / Bootstrap
+
+Also: Fortran / Matlab / C / JS / PHP
+
+##### Contact me:
+[<img src="./svg/telegram.svg" width="48px" height="48px">](https://t.me/DrukYul)
+[<img src="./svg/mail.svg" width="48px" height="48px">](mailto:liza@eandrosova.ru)
+[<img src="./svg/linkedin.svg" width="48px" height="48px">](https://www.linkedin.com/in/elizaveta-androsova/)
 
 <!--
 **photometer/photometer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
