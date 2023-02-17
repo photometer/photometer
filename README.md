@@ -1,5 +1,5 @@
 ### Hi, I'm Liza!👋 Python-developer and meteorologist.
-Yandex.Practicum student (11 months)
+Yandex.Practicum graduate
 
 Languages and tools: Python / Django / Django REST Framework / SQL / Docker and docker-compose / Yandex.Cloud / Git / Github.Actions / Nginx / Unittest / Linux / HTML / CSS / Bootstrap
 
