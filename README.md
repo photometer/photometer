@@ -1,5 +1,7 @@
-### Hi, I'm Liza!👋 Python-developer and meteorologist.
-Yandex.Practicum graduate
+### Hi, I'm Lisa!👋 Developer and meteorologist.
+Yandex.Practicum graduate (Python-developer) and SkillFactory student (C#-developer)
+
+I'm keen on programming and have to work with many languages that I barely know but I salute such tasks. Thus, I develop not only products but also myself 😄
 
 Languages and tools: Python / Django / Django REST Framework / Scrapy / Flask / FAST API / SQL / Docker and docker-compose / Yandex.Cloud / Git / Github.Actions / Nginx / Unittest / Linux / HTML / CSS / Bootstrap
 
